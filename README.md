@@ -12,7 +12,7 @@ The vision of the P=ENTS methodology is to equip communities with the tools and 
 I welcome contributions from individuals passionate about community building and those who want to improve and expand upon the P=ENTS methodology. If you have suggestions, improvements or additions, please submit them through pull requests. Let's collaborate and create a positive impact together!
 
 ## Licensing and Attribution
-The content in this repository, including the P=ENTS methodology, is licensed under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. You are free to use, modify, and distribute the methodology, as long as you appropriately credit the original creator (Joe Bloggs) and any derivative work is made available under the same, similar or compatible license. For more details, refer to the [LICENSE](./LICENSE) file in this repository.
+The content in this repository, including the P=ENTS methodology, is licensed under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. You are free to use, modify, and distribute the methodology, as long as you appropriately credit the original creator (P=ENTS methodology) and any derivative work is made available under the same, similar or compatible license. For more details, refer to the [LICENSE](./LICENSE) file in this repository.
 
 ## Contact Information
 If you have any questions, ideas, or would like to collaborate, feel free to reach out to me. You can contact me via the P=ENTS methodology website, which is https://www.pentsmethodology.com. There you can also explore more about the P=ENTS methodology, its values, principles, tenets and other components. Let's connect and make a difference in the world of community building!
